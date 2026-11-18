@@ -1,0 +1,45 @@
+{
+ "2026-11-18": {
+  "topic": "Single \"New here? This is RCMAXIS.\"",
+  "files": [
+   "posts/1118.jpg"
+  ],
+  "caption": "We help US medical practices get paid for the care they deliver: denials, AR follow-up, coding, billing and credentialing.\n\nThis page is where we share what we know. Expect practical posts you can use on your next shift, plus RCM career tips and openings.\n\nFollow along, and tell us below: what do you want us to explain first?\n\n#rcmaxis #revenuecyclemanagement #medicalbilling #medicalcoding #rcm #healthcarecareers",
+  "status": "pending"
+ },
+ "2026-11-19": {
+  "topic": "Single \"Timely filing\"",
+  "files": [
+   "posts/1119.jpg"
+  ],
+  "caption": "A clean, correct claim can still be worth nothing if it goes out too late.\n\nMedicare: 12 months from the date of service. Medicaid: set by each state. Commercial payers: set by contract, often 90 to 180 days and sometimes shorter.\n\nMiss the window and the denial usually can't be appealed. Know the limit for every payer you bill.\n\n#timelyfiling #medicalbilling #claimdenials #revenuecycle #rcm #arcaller",
+  "status": "pending"
+ },
+ "2026-11-20": {
+  "topic": "Carousel \"5 front-desk errors that cause denials\" (4 slides)",
+  "files": [
+   "posts/1120_s1.jpg",
+   "posts/1120_s2.jpg",
+   "posts/1120_s3.jpg",
+   "posts/1120_s4.jpg"
+  ],
+  "caption": "Many denials start at check-in, not in the billing office.\n\nName and date of birth mismatches, old member IDs, the wrong subscriber and plans that changed are all preventable with two habits: copy details from the card, and verify eligibility before the visit.\n\nSave this and share it with your front-desk team.\n\n#frontdesk #patientregistration #eligibilityverification #claimdenials #medicalbilling #practicemanagement",
+  "status": "pending"
+ },
+ "2026-11-21": {
+  "topic": "Single \"CPT vs ICD-10 vs HCPCS\"",
+  "files": [
+   "posts/1121.jpg"
+  ],
+  "caption": "Three code sets, three different jobs.\n\nCPT says what was done. ICD-10-CM says why it was done. HCPCS Level II covers supplies, drugs, equipment and some services.\n\nWhen the what and the why don't support each other, expect a medical-necessity denial.\n\n#medicalcoding #cpt #icd10 #hcpcs #medicalbilling #cpc #codingstudent",
+  "status": "pending"
+ },
+ "2026-11-22": {
+  "topic": "Single \"Why the 90+ day bucket matters\"",
+  "files": [
+   "posts/1122.jpg"
+  ],
+  "caption": "AR aging shows how long claims have gone unpaid: 0–30, 31–60, 61–90 and 90+ days.\n\nThe 90+ bucket is where money gets lost. Filing and appeal deadlines are closing in, and every week makes collection harder.\n\nWork the oldest money first.\n\n#accountsreceivable #arcaller #araging #revenuecycle #medicalbilling #rcm",
+  "status": "pending"
+ }
+}
