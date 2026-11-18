@@ -41,5 +41,76 @@
   ],
   "caption": "AR aging shows how long claims have gone unpaid: 0–30, 31–60, 61–90 and 90+ days.\n\nThe 90+ bucket is where money gets lost. Filing and appeal deadlines are closing in, and every week makes collection harder.\n\nWork the oldest money first.\n\n#accountsreceivable #arcaller #araging #revenuecycle #medicalbilling #rcm",
   "status": "pending"
+ },
+ "2026-11-23": {
+  "topic": "Carousel \"How a US doctor actually gets paid\" (5 slides)",
+  "files": [
+   "posts/1123_s1.jpg",
+   "posts/1123_s2.jpg",
+   "posts/1123_s3.jpg",
+   "posts/1123_s4.jpg",
+   "posts/1123_s5.jpg"
+  ],
+  "caption": "A US practice can deliver great care and still not get paid. The gap is the revenue cycle.\n\n9 steps, from the front desk to the final patient statement. Each one is a skill, and each one is a career.\n\nWhich step do you work in, or want to? Tell us below.\n\nSave this if you're learning US RCM.\n\n#revenuecyclemanagement #medicalbilling #rcm #medicalcoding #usHealthcare #healthcarecareers #arcaller #medicalbiller",
+  "status": "pending"
+ },
+ "2026-11-24": {
+  "topic": "Single \"~15% of claims denied\"",
+  "files": [
+   "posts/1124.jpg"
+  ],
+  "caption": "Nearly 15% of claims sent to private payers are initially denied. More than half of those are paid in the end, but only after appeals that cost time and money. (Premier Inc. survey, 2024)\n\nThe cheapest denial is the one that never happens: clean data at registration, verified eligibility, accurate codes.\n\n#claimdenials #denialmanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-11-25": {
+  "topic": "Carousel \"5 denial codes every AR caller should know\" (7 slides)",
+  "files": [
+   "posts/1125_s1.jpg",
+   "posts/1125_s2.jpg",
+   "posts/1125_s3.jpg",
+   "posts/1125_s4.jpg",
+   "posts/1125_s5.jpg",
+   "posts/1125_s6.jpg",
+   "posts/1125_s7.jpg"
+  ],
+  "caption": "If you work AR, you'll see these again and again.\n\nCO-16, CO-97, CO-29, CO-50 and PR-1: what each means and the next move for each.\n\nSave this for your next shift. Which code eats most of your day?\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm #medicalcoding #healthcarejobs",
+  "status": "pending"
+ },
+ "2026-11-26": {
+  "topic": "Single \"Coder vs. biller vs. AR caller\"",
+  "files": [
+   "posts/1126.jpg"
+  ],
+  "caption": "Three roles people mix up all the time.\n\nCoders translate the visit into codes. Billers turn codes into clean claims. AR callers make sure those claims actually get paid.\n\nThinking about a career in US healthcare revenue? Start by knowing which role fits you.\n\n#medicalcoding #medicalbilling #arcaller #healthcarecareers #rcmcareers #revenuecyclemanagement",
+  "status": "pending"
+ },
+ "2026-11-27": {
+  "topic": "Carousel \"Why a new doctor can't bill for months\" (6 slides)",
+  "files": [
+   "posts/1127_s1.jpg",
+   "posts/1127_s2.jpg",
+   "posts/1127_s3.jpg",
+   "posts/1127_s4.jpg",
+   "posts/1127_s5.jpg",
+   "posts/1127_s6.jpg"
+  ],
+  "caption": "A new provider joins, the schedule fills up, and the claims start denying. The reason is usually credentialing.\n\nWhat it is, why it takes 90+ days, and the playbook to avoid lost revenue.\n\nShare this with someone onboarding a new provider.\n\n#credentialing #providerenrollment #caqh #medicalbilling #revenuecycle #practicemanagement",
+  "status": "pending"
+ },
+ "2026-11-28": {
+  "topic": "Single \"Check eligibility before the visit\"",
+  "files": [
+   "posts/1128.jpg"
+  ],
+  "caption": "Coverage changes more often than patients remember. Plans renew, jobs change, deductibles reset.\n\nA two-minute eligibility check at scheduling saves weeks of rework after a denial.\n\n#frontdesk #eligibilityverification #medicalbilling #practicemanagement #rcm",
+  "status": "pending"
+ },
+ "2026-11-29": {
+  "topic": "Single \"About RCMAXIS\"",
+  "files": [
+   "posts/1129.jpg"
+  ],
+  "caption": "RCMAXIS is building a global revenue cycle team for US specialty practices: AR, coding, billing and credentialing.\n\nFounder-led, working with US clients, remote-friendly.\n\nWe're sharing what we know as we build. Follow along, and opportunities will be posted here first.\n\n#rcmaxis #revenuecyclemanagement #medicalbilling #healthcarecareers #remotejobs #rcmjobs",
+  "status": "pending"
  }
 }
