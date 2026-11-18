@@ -1,0 +1,38 @@
+{
+ "rules": "Follow max 10/day Mon-Fri from @rcm.axis via Yagnesh's Chrome. Like 1 recent post first when easy. Skip private, inactive (no post in ~60 days), AI-generated-flagged, spam, competitors' staff, Revenex/Limpid. Never comment, DM or unfollow. Stop at once on any Instagram warning/action block.",
+ "followed": {
+  "2026-11-18": [
+   "medical_coding_updates",
+   "medicalcoding_support",
+   "medical_coding_memes",
+   "hmvsolutions",
+   "_medical_coder_certified_",
+   "arcallingcareers",
+   "amethystvasolutions",
+   "blackstone_hlthcare_solutions",
+   "medical__coding__jobs",
+   "iamanarcaller"
+  ]
+ },
+ "skipped": {
+  "sixfiguremedicalcoder": "no recent posts",
+  "medical_coding_guide": "Instagram flags it as AI-generated profile"
+ },
+ "pool": [
+  "ar_caller_medical_coder_hiring",
+  "medicalcoding_firstjob",
+  "underrated_medicalcoders_21",
+  "vrisemedicalcoding",
+  "ugtamedicalcoding",
+  "behavioralbilling",
+  "cgmedicalcoding",
+  "medicalcoding_job_updates",
+  "aapcmedicalcoding",
+  "hirewithjanani",
+  "stratapt_official",
+  "medicalcodingexperts",
+  "medical_coding_interview",
+  "medical_coding_kastalu",
+  "medicalcodingchennai"
+ ]
+}
