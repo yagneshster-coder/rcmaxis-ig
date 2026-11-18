@@ -14,17 +14,32 @@ def _id(r):
     d = (r or {}).get("data") or {}
     return d.get("id") or (d.get("data") or {}).get("id")
 
+def _reel(e, cap):
+    import os, urllib.request
+    os.makedirs("/home/user/reel_tmp", exist_ok=True)
+    p = "/home/user/reel_tmp/" + e["video"].split("/")[-1]
+    urllib.request.urlretrieve(RAW + e["video"], p)
+    up, err = upload_local_file(p)
+    if err: raise RuntimeError(err)
+    k = (up.get("data") or up).get("s3key") or up.get("s3key")
+    r, err = run_composio_tool("INSTAGRAM_POST_IG_USER_MEDIA", {"ig_user_id": IG, "media_type": "REELS", "share_to_feed": True, "caption": cap,
+        "video_file": {"name": os.path.basename(p), "mimetype": "video/mp4", "s3key": k}})
+    if err: raise RuntimeError(err)
+    return _id(r)
+
 def publish_day(date, dry=False):
     P = _plan(); e = P.get(date)
     if not e: return {"date": date, "status": "missing"}
     if e.get("status") == "skip": return {"date": date, "status": "skip"}
-    urls = [RAW + f for f in e["files"]]
+    urls = [RAW + f for f in e.get("files", [])]
     for u in urls:
         with urllib.request.urlopen(u, timeout=30) as resp:
             assert resp.status == 200 and resp.headers.get("Content-Type", "").startswith("image/"), u
     if dry: return {"date": date, "topic": e["topic"], "urls": urls, "dry": True}
     cap = e["caption"]
-    if len(urls) == 1:
+    if e.get("video"):
+        cid = _reel(e, cap)
+    elif len(urls) == 1:
         r, err = run_composio_tool("INSTAGRAM_POST_IG_USER_MEDIA", {"ig_user_id": IG, "image_url": urls[0], "caption": cap})
         if err: raise RuntimeError(err)
         cid = _id(r)
@@ -37,7 +52,7 @@ def publish_day(date, dry=False):
         r, err = run_composio_tool("INSTAGRAM_CREATE_CAROUSEL_CONTAINER", {"ig_user_id": IG, "children": kids, "caption": cap})
         if err: raise RuntimeError(err)
         cid = _id(r)
-    r, err = run_composio_tool("INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH", {"ig_user_id": IG, "creation_id": cid, "max_wait_seconds": 120})
+    r, err = run_composio_tool("INSTAGRAM_POST_IG_USER_MEDIA_PUBLISH", {"ig_user_id": IG, "creation_id": cid, "max_wait_seconds": 300, "poll_interval_seconds": 10})
     if err: raise RuntimeError(err)
     mid = _id(r) or ((r or {}).get("data") or {}).get("ig_media_id")
     m, _ = run_composio_tool("INSTAGRAM_GET_IG_MEDIA", {"ig_media_id": mid, "fields": "id,permalink,caption"})
