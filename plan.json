@@ -1,457 +1,553 @@
 {
-  "2026-11-18": {
-    "topic": "Single \"New here? This is RCMAXIS.\"",
-    "files": [
-      "posts/1118.jpg"
-    ],
-    "caption": "We help US medical practices get paid for the care they deliver: denials, AR follow-up, coding, billing and credentialing.\n\nThis page is where we share what we know. Expect practical posts you can use on your next shift, plus RCM career tips and openings.\n\nFollow along, and tell us below: what do you want us to explain first?\n\n#rcmaxis #revenuecyclemanagement #medicalbilling #medicalcoding #rcm #healthcarecareers",
-    "status": "pending"
-  },
-  "2026-11-19": {
-    "topic": "Single \"Timely filing\"",
-    "files": [
-      "posts/1119.jpg"
-    ],
-    "caption": "A clean, correct claim can still be worth nothing if it goes out too late.\n\nMedicare: 12 months from the date of service. Medicaid: set by each state. Commercial payers: set by contract, often 90 to 180 days and sometimes shorter.\n\nMiss the window and the denial usually can't be appealed. Know the limit for every payer you bill.\n\n#timelyfiling #medicalbilling #claimdenials #revenuecycle #rcm #arcaller",
-    "status": "pending"
-  },
-  "2026-11-20": {
-    "topic": "Carousel \"5 front-desk errors that cause denials\" (4 slides)",
-    "files": [
-      "posts/1120_s1.jpg",
-      "posts/1120_s2.jpg",
-      "posts/1120_s3.jpg",
-      "posts/1120_s4.jpg"
-    ],
-    "caption": "Many denials start at check-in, not in the billing office.\n\nName and date of birth mismatches, old member IDs, the wrong subscriber and plans that changed are all preventable with two habits: copy details from the card, and verify eligibility before the visit.\n\nSave this and share it with your front-desk team.\n\n#frontdesk #patientregistration #eligibilityverification #claimdenials #medicalbilling #practicemanagement",
-    "status": "pending"
-  },
-  "2026-11-21": {
-    "topic": "Single \"CPT vs ICD-10 vs HCPCS\"",
-    "files": [
-      "posts/1121.jpg"
-    ],
-    "caption": "Three code sets, three different jobs.\n\nCPT says what was done. ICD-10-CM says why it was done. HCPCS Level II covers supplies, drugs, equipment and some services.\n\nWhen the what and the why don't support each other, expect a medical-necessity denial.\n\n#medicalcoding #cpt #icd10 #hcpcs #medicalbilling #cpc #codingstudent",
-    "status": "pending"
-  },
-  "2026-11-22": {
-    "topic": "Single \"Why the 90+ day bucket matters\"",
-    "files": [
-      "posts/1122.jpg"
-    ],
-    "caption": "AR aging shows how long claims have gone unpaid: 0–30, 31–60, 61–90 and 90+ days.\n\nThe 90+ bucket is where money gets lost. Filing and appeal deadlines are closing in, and every week makes collection harder.\n\nWork the oldest money first.\n\n#accountsreceivable #arcaller #araging #revenuecycle #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-11-23": {
-    "topic": "Carousel \"How a US doctor actually gets paid\" (5 slides)",
-    "files": [
-      "posts/1123_s1.jpg",
-      "posts/1123_s2.jpg",
-      "posts/1123_s3.jpg",
-      "posts/1123_s4.jpg",
-      "posts/1123_s5.jpg"
-    ],
-    "caption": "A US practice can deliver great care and still not get paid. The gap is the revenue cycle.\n\n9 steps, from the front desk to the final patient statement. Each one is a skill, and each one is a career.\n\nWhich step do you work in, or want to? Tell us below.\n\nSave this if you're learning US RCM.\n\n#revenuecyclemanagement #medicalbilling #rcm #medicalcoding #usHealthcare #healthcarecareers #arcaller #medicalbiller",
-    "status": "pending"
-  },
-  "2026-11-24": {
-    "topic": "Single \"~15% of claims denied\"",
-    "files": [
-      "posts/1124.jpg"
-    ],
-    "caption": "Nearly 15% of claims sent to private payers are initially denied. More than half of those are paid in the end, but only after appeals that cost time and money. (Premier Inc. survey, 2024)\n\nThe cheapest denial is the one that never happens: clean data at registration, verified eligibility, accurate codes.\n\n#claimdenials #denialmanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-11-25": {
-    "topic": "Carousel \"5 denial codes every AR caller should know\" (7 slides)",
-    "files": [
-      "posts/1125_s1.jpg",
-      "posts/1125_s2.jpg",
-      "posts/1125_s3.jpg",
-      "posts/1125_s4.jpg",
-      "posts/1125_s5.jpg",
-      "posts/1125_s6.jpg",
-      "posts/1125_s7.jpg"
-    ],
-    "caption": "If you work AR, you'll see these again and again.\n\nCO-16, CO-97, CO-29, CO-50 and PR-1: what each means and the next move for each.\n\nSave this for your next shift. Which code eats most of your day?\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm #medicalcoding #healthcarejobs",
-    "status": "pending"
-  },
-  "2026-11-26": {
-    "topic": "Single \"Coder vs. biller vs. AR caller\"",
-    "files": [
-      "posts/1126.jpg"
-    ],
-    "caption": "Three roles people mix up all the time.\n\nCoders translate the visit into codes. Billers turn codes into clean claims. AR callers make sure those claims actually get paid.\n\nThinking about a career in US healthcare revenue? Start by knowing which role fits you.\n\n#medicalcoding #medicalbilling #arcaller #healthcarecareers #rcmcareers #revenuecyclemanagement",
-    "status": "pending"
-  },
-  "2026-11-27": {
-    "topic": "Carousel \"Why a new doctor can't bill for months\" (6 slides)",
-    "files": [
-      "posts/1127_s1.jpg",
-      "posts/1127_s2.jpg",
-      "posts/1127_s3.jpg",
-      "posts/1127_s4.jpg",
-      "posts/1127_s5.jpg",
-      "posts/1127_s6.jpg"
-    ],
-    "caption": "A new provider joins, the schedule fills up, and the claims start denying. The reason is usually credentialing.\n\nWhat it is, why it takes 90+ days, and the playbook to avoid lost revenue.\n\nShare this with someone onboarding a new provider.\n\n#credentialing #providerenrollment #caqh #medicalbilling #revenuecycle #practicemanagement",
-    "status": "pending"
-  },
-  "2026-11-28": {
-    "topic": "Single \"Check eligibility before the visit\"",
-    "files": [
-      "posts/1128.jpg"
-    ],
-    "caption": "Coverage changes more often than patients remember. Plans renew, jobs change, deductibles reset.\n\nA two-minute eligibility check at scheduling saves weeks of rework after a denial.\n\n#frontdesk #eligibilityverification #medicalbilling #practicemanagement #rcm",
-    "status": "pending"
-  },
-  "2026-11-29": {
-    "topic": "Single \"About RCMAXIS\"",
-    "files": [
-      "posts/1129.jpg"
-    ],
-    "caption": "RCMAXIS is building a global revenue cycle team for US specialty practices: AR, coding, billing and credentialing.\n\nFounder-led, working with US clients, remote-friendly.\n\nWe're sharing what we know as we build. Follow along, and opportunities will be posted here first.\n\n#rcmaxis #revenuecyclemanagement #medicalbilling #healthcarecareers #remotejobs #rcmjobs",
-    "status": "pending"
-  },
-  "2026-11-30": {
-    "topic": "Primary or secondary? Who pays first",
-    "files": [
-      "posts/1130_s1.jpg",
-      "posts/1130_s2.jpg",
-      "posts/1130_s3.jpg",
-      "posts/1130_s4.jpg",
-      "posts/1130_s5.jpg"
-    ],
-    "caption": "Two insurance plans don't mean double payment. They mean billing in the right order.\n\nHow does your team confirm which plan is primary?\n\n#coordinationofbenefits #medicalbilling #eligibilityverification #rcm #practicemanagement",
-    "status": "pending"
-  },
-  "2026-12-01": {
-    "topic": "Clean claim rate",
-    "files": [
-      "posts/1201.jpg"
-    ],
-    "caption": "Clean claim rate is one of the simplest numbers to track and one of the most revealing. If claims bounce back, your team pays for it twice.\n\nDo you know your practice's rate?\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-12-02": {
-    "topic": "How to read an EOB in 60 seconds",
-    "files": [
-      "posts/1202_s1.jpg",
-      "posts/1202_s2.jpg",
-      "posts/1202_s3.jpg",
-      "posts/1202_s4.jpg",
-      "posts/1202_s5.jpg",
-      "posts/1202_s6.jpg"
-    ],
-    "caption": "An EOB looks busy, but five fields tell you most of the story. Learn to read them fast and underpayments stop hiding.\n\nSave this for posting day.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-12-03": {
-    "topic": "A day in the life of an AR caller",
-    "files": [
-      "posts/1203.jpg"
-    ],
-    "caption": "AR calling is part detective work, part persistence. A good AR caller turns a stuck claim into cash.\n\nWhat's the longest you've waited on hold with a payer?\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
-    "status": "pending"
-  },
-  "2026-12-04": {
-    "topic": "Prior authorization: 5 rules that save claims",
-    "files": [
-      "posts/1204_s1.jpg",
-      "posts/1204_s2.jpg",
-      "posts/1204_s3.jpg",
-      "posts/1204_s4.jpg",
-      "posts/1204_s5.jpg"
-    ],
-    "caption": "Most prior auth denials are avoidable. Five rules your front desk and billing team can use today.\n\nShare this with the team that handles auths.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-12-05": {
-    "topic": "Document why, not just what.",
-    "files": [
-      "posts/1205.jpg"
-    ],
-    "caption": "A procedure is paid when the note shows why it was needed. Write for the reviewer who reads it six months later.\n\n#medicalcoding #medicalbilling #rcm #revenuecyclemanagement #healthcarecareers",
-    "status": "pending"
-  },
-  "2026-12-06": {
-    "topic": "What makes a great RCM professional?",
-    "files": [
-      "posts/1206.jpg"
-    ],
-    "caption": "Skills can be taught. These traits are what make people great at revenue cycle work.\n\nWhich one describes you best?\n\n#rcmaxis #rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
-    "status": "pending"
-  },
-  "2026-12-07": {
-    "topic": "Rejection vs. denial",
-    "files": [
-      "posts/1207_s1.jpg",
-      "posts/1207_s2.jpg",
-      "posts/1207_s3.jpg",
-      "posts/1207_s4.jpg"
-    ],
-    "caption": "A rejection and a denial need different fixes. Mix them up and claims sit until they time out.\n\nSave this for your next AR shift.\n\n#arcaller #accountsreceivable #claimrejection #denialmanagement #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-12-08": {
-    "topic": "Original Medicare vs. Medicare Advantage",
-    "files": [
-      "posts/1208.jpg"
-    ],
-    "caption": "Same patient, same age, different payer. Medicare Advantage claims go to the private plan, not to Medicare.\n\n#medicare #medicareadvantage #medicalbilling #eligibilityverification #rcm",
-    "status": "pending"
-  },
-  "2026-12-09": {
-    "topic": "5 modifiers every coder should know",
-    "files": [
-      "posts/1209_s1.jpg",
-      "posts/1209_s2.jpg",
-      "posts/1209_s3.jpg",
-      "posts/1209_s4.jpg",
-      "posts/1209_s5.jpg",
-      "posts/1209_s6.jpg",
-      "posts/1209_s7.jpg"
-    ],
-    "caption": "Five modifiers that change how a claim is paid. Use them right and you prevent denials. Use them wrong and you invite audits.\n\nSave this for your next coding review.\n\n#medicalcoding #medicalbilling #rcm #revenuecyclemanagement #healthcarecareers",
-    "status": "pending"
-  },
-  "2026-12-10": {
-    "topic": "CPC or CCS?",
-    "files": [
-      "posts/1210.jpg"
-    ],
-    "caption": "Thinking about a coding certification? CPC and CCS lead to different settings. Choose the one that fits where you want to work.\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
-    "status": "pending"
-  },
-  "2026-12-11": {
-    "topic": "Appeals that win",
-    "files": [
-      "posts/1211_s1.jpg",
-      "posts/1211_s2.jpg",
-      "posts/1211_s3.jpg",
-      "posts/1211_s4.jpg",
-      "posts/1211_s5.jpg",
-      "posts/1211_s6.jpg"
-    ],
-    "caption": "Many denials can be overturned with a clear, well-supported appeal. Here's a structure that keeps appeals tight and complete.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-12-12": {
-    "topic": "Read the remark code, not just the denial code.",
-    "files": [
-      "posts/1212.jpg"
-    ],
-    "caption": "The denial code tells you what happened. The remark code usually tells you how to fix it. Read both before you act.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-12-13": {
-    "topic": "Specialty RCM is different.",
-    "files": [
-      "posts/1213.jpg"
-    ],
-    "caption": "Specialty practices have specialty billing rules. That's where RCMAXIS focuses.\n\n#rcmaxis #specialtybilling #behavioralhealthbilling #ababilling #medicalbilling",
-    "status": "pending"
-  },
-  "2026-12-14": {
-    "topic": "Credentialing vs. enrollment vs. contracting",
-    "files": [
-      "posts/1214_s1.jpg",
-      "posts/1214_s2.jpg",
-      "posts/1214_s3.jpg",
-      "posts/1214_s4.jpg",
-      "posts/1214_s5.jpg"
-    ],
-    "caption": "Credentialing, enrollment and contracting are three different steps. Skip one and claims deny.\n\n#credentialing #providerenrollment #caqh #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-12-15": {
-    "topic": "Days in AR",
-    "files": [
-      "posts/1215.jpg"
-    ],
-    "caption": "Days in AR shows how quickly your practice turns care into cash. Watch the trend, not just the number.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-12-16": {
-    "topic": "5 ways to collect more at the front desk",
-    "files": [
-      "posts/1216_s1.jpg",
-      "posts/1216_s2.jpg",
-      "posts/1216_s3.jpg",
-      "posts/1216_s4.jpg",
-      "posts/1216_s5.jpg",
-      "posts/1216_s6.jpg"
-    ],
-    "caption": "Patient balances are easiest to collect before the patient leaves. Five habits that help.\n\nShare this with your front desk.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-12-17": {
-    "topic": "Your path into US RCM",
-    "files": [
-      "posts/1217.jpg"
-    ],
-    "caption": "Nobody starts as an RCM expert. Here's a simple path from your first role to a specialty.\n\nWhere are you on this path?\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
-    "status": "pending"
-  },
-  "2026-12-18": {
-    "topic": "January checklist for US practices",
-    "files": [
-      "posts/1218_s1.jpg",
-      "posts/1218_s2.jpg",
-      "posts/1218_s3.jpg",
-      "posts/1218_s4.jpg",
-      "posts/1218_s5.jpg",
-      "posts/1218_s6.jpg"
-    ],
-    "caption": "January brings new deductibles, new codes and new rates. Use this checklist to get ready in December.\n\nSave it for the last week of the year.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-12-19": {
-    "topic": "Check the payer portal before you call.",
-    "files": [
-      "posts/1219.jpg"
-    ],
-    "caption": "Payer portals answer many questions faster than a phone call. Check first, then call with a specific ask.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-12-20": {
-    "topic": "Want to build a career in US RCM?",
-    "files": [
-      "posts/1220.jpg"
-    ],
-    "caption": "Interested in a career in US revenue cycle management? Follow along. We share what we know as we build, and opportunities will be posted here first.\n\n#rcmaxis #rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
-    "status": "pending"
-  },
-  "2026-12-21": {
-    "topic": "Eligibility denials: 4 causes and fixes",
-    "files": [
-      "posts/1221_s1.jpg",
-      "posts/1221_s2.jpg",
-      "posts/1221_s3.jpg",
-      "posts/1221_s4.jpg",
-      "posts/1221_s5.jpg"
-    ],
-    "caption": "Eligibility denials are among the most preventable. Four causes and how to stop each one at the front desk.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-12-22": {
-    "topic": "Holiday weeks slow everything down.",
-    "files": [
-      "posts/1222.jpg"
-    ],
-    "caption": "Holiday weeks are slow for payers too. Get clean claims out early and plan for delays into January.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-12-23": {
-    "topic": "New patient or established?",
-    "files": [
-      "posts/1223_s1.jpg",
-      "posts/1223_s2.jpg",
-      "posts/1223_s3.jpg",
-      "posts/1223_s4.jpg",
-      "posts/1223_s5.jpg"
-    ],
-    "caption": "New or established patient? The 3-year rule decides, and payers check it closely.\n\nSave this for your next E/M review.\n\n#medicalcoding #medicalbilling #rcm #revenuecyclemanagement #healthcarecareers",
-    "status": "pending"
-  },
-  "2026-12-24": {
-    "topic": "Soft skills that make great AR callers",
-    "files": [
-      "posts/1224.jpg"
-    ],
-    "caption": "Technical knowledge gets you into AR. These habits make you great at it.\n\nWhich one are you working on?\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
-    "status": "pending"
-  },
-  "2026-12-25": {
-    "topic": "Merry Christmas from RCMAXIS.",
-    "files": [
-      "posts/1225.jpg"
-    ],
-    "caption": "Merry Christmas from all of us at RCMAXIS.\n\n#merrychristmas #rcmaxis #healthcare #medicalbilling",
-    "status": "pending"
-  },
-  "2026-12-26": {
-    "topic": "Close the year clean.",
-    "files": [
-      "posts/1226.jpg"
-    ],
-    "caption": "The last week of the year is a good time to clean up old AR before it gets older.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
-    "status": "pending"
-  },
-  "2026-12-27": {
-    "topic": "2026: the year RCMAXIS began.",
-    "files": [
-      "posts/1227.jpg"
-    ],
-    "caption": "2026 is the year RCMAXIS began. Thank you for being here as we build.\n\n#rcmaxis #rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
-    "status": "pending"
-  },
-  "2026-12-28": {
-    "topic": "5 RCM terms every beginner should know",
-    "files": [
-      "posts/1228_s1.jpg",
-      "posts/1228_s2.jpg",
-      "posts/1228_s3.jpg",
-      "posts/1228_s4.jpg",
-      "posts/1228_s5.jpg",
-      "posts/1228_s6.jpg",
-      "posts/1228_s7.jpg"
-    ],
-    "caption": "Every field has its own language. Five RCM terms to learn first.\n\nWhich term confused you most when you started?\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
-    "status": "pending"
-  },
-  "2026-12-29": {
-    "topic": "Deductible vs. copay vs. coinsurance",
-    "files": [
-      "posts/1229.jpg"
-    ],
-    "caption": "Three patient cost terms that get mixed up all the time. Know the difference before you bill the patient.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-12-30": {
-    "topic": "5 revenue cycle goals for 2027",
-    "files": [
-      "posts/1230_s1.jpg",
-      "posts/1230_s2.jpg",
-      "posts/1230_s3.jpg",
-      "posts/1230_s4.jpg",
-      "posts/1230_s5.jpg"
-    ],
-    "caption": "Five revenue cycle goals for 2027. Pick one and start in January.\n\nSave this for your planning.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
-    "status": "pending"
-  },
-  "2026-12-31": {
-    "topic": "See you in 2027.",
-    "files": [
-      "posts/1231.jpg"
-    ],
-    "caption": "Happy New Year from RCMAXIS. See you in 2027.\n\n#happynewyear #rcmaxis #medicalbilling #rcm #healthcarecareers",
-    "status": "pending"
-  },
-  "2026-11-24-reel": {
-    "topic": "Reel: How a US doctor actually gets paid",
-    "video": "reels/1123_reel.mp4",
-    "status": "pending",
-    "caption": "From registration to the patient statement: the 9 steps every claim goes through.\n\nWhich step do you work in?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #revenuecyclemanagement #rcm #arcaller #healthcarecareers"
-  },
-  "2026-11-26-reel": {
-    "topic": "Reel: 5 denial codes every AR caller must know",
-    "video": "reels/1125_reel.mp4",
-    "status": "pending",
-    "caption": "CO-16, CO-97, CO-29, CO-50 and PR-1, with the next move for each.\n\nSave this for your next AR shift.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#arcaller #denialmanagement #accountsreceivable #medicalbilling #rcm #medicalcoding"
-  },
-  "2026-11-28-reel": {
-    "topic": "Reel: Why new doctors can't bill for months",
-    "video": "reels/1127_reel.mp4",
-    "status": "pending",
-    "caption": "Credentialing, explained: why a new provider often waits 90 days or more before the first claim pays, and how to avoid it.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#credentialing #providerenrollment #caqh #medicalbilling #rcm #practicemanagement"
-  },
-  "2026-11-26-tg": {
-    "topic": "Single \"Happy Thanksgiving: thank you to the people who get practices paid\"",
-    "files": [
-      "posts/1126_tg.jpg"
-    ],
-    "caption": "Happy Thanksgiving to everyone who keeps US healthcare revenue moving.\n\nFront desk teams, coders, billers, AR callers and credentialing specialists: the claims that get paid start with your work, and most of it happens where patients never see it.\n\nWe're grateful to build RCMAXIS alongside people who do this every day.\n\n#thanksgiving #medicalbilling #rcm #medicalcoding #arcaller",
-    "status": "pending"
-  }
+ "2026-11-18": {
+  "topic": "Single \"New here? This is RCMAXIS.\"",
+  "files": [
+   "posts/1118.jpg"
+  ],
+  "caption": "We help US medical practices get paid for the care they deliver: denials, AR follow-up, coding, billing and credentialing.\n\nThis page is where we share what we know. Expect practical posts you can use on your next shift, plus RCM career tips and openings.\n\nFollow along, and tell us below: what do you want us to explain first?\n\n#rcmaxis #revenuecyclemanagement #medicalbilling #medicalcoding #rcm #healthcarecareers",
+  "status": "pending"
+ },
+ "2026-11-19": {
+  "topic": "Single \"Timely filing\"",
+  "files": [
+   "posts/1119.jpg"
+  ],
+  "caption": "A clean, correct claim can still be worth nothing if it goes out too late.\n\nMedicare: 12 months from the date of service. Medicaid: set by each state. Commercial payers: set by contract, often 90 to 180 days and sometimes shorter.\n\nMiss the window and the denial usually can't be appealed. Know the limit for every payer you bill.\n\n#timelyfiling #medicalbilling #claimdenials #revenuecycle #rcm #arcaller",
+  "status": "pending"
+ },
+ "2026-11-20": {
+  "topic": "Carousel \"5 front-desk errors that cause denials\" (4 slides)",
+  "files": [
+   "posts/1120_s1.jpg",
+   "posts/1120_s2.jpg",
+   "posts/1120_s3.jpg",
+   "posts/1120_s4.jpg"
+  ],
+  "caption": "Many denials start at check-in, not in the billing office.\n\nName and date of birth mismatches, old member IDs, the wrong subscriber and plans that changed are all preventable with two habits: copy details from the card, and verify eligibility before the visit.\n\nSave this and share it with your front-desk team.\n\n#frontdesk #patientregistration #eligibilityverification #claimdenials #medicalbilling #practicemanagement",
+  "status": "pending"
+ },
+ "2026-11-21": {
+  "topic": "Single \"CPT vs ICD-10 vs HCPCS\"",
+  "files": [
+   "posts/1121.jpg"
+  ],
+  "caption": "Three code sets, three different jobs.\n\nCPT says what was done. ICD-10-CM says why it was done. HCPCS Level II covers supplies, drugs, equipment and some services.\n\nWhen the what and the why don't support each other, expect a medical-necessity denial.\n\n#medicalcoding #cpt #icd10 #hcpcs #medicalbilling #cpc #codingstudent",
+  "status": "pending"
+ },
+ "2026-11-22": {
+  "topic": "Single \"Why the 90+ day bucket matters\"",
+  "files": [
+   "posts/1122.jpg"
+  ],
+  "caption": "AR aging shows how long claims have gone unpaid: 0–30, 31–60, 61–90 and 90+ days.\n\nThe 90+ bucket is where money gets lost. Filing and appeal deadlines are closing in, and every week makes collection harder.\n\nWork the oldest money first.\n\n#accountsreceivable #arcaller #araging #revenuecycle #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-11-23": {
+  "topic": "Carousel \"How a US doctor actually gets paid\" (5 slides)",
+  "files": [
+   "posts/1123_s1.jpg",
+   "posts/1123_s2.jpg",
+   "posts/1123_s3.jpg",
+   "posts/1123_s4.jpg",
+   "posts/1123_s5.jpg"
+  ],
+  "caption": "A US practice can deliver great care and still not get paid. The gap is the revenue cycle.\n\n9 steps, from the front desk to the final patient statement. Each one is a skill, and each one is a career.\n\nWhich step do you work in, or want to? Tell us below.\n\nSave this if you're learning US RCM.\n\n#revenuecyclemanagement #medicalbilling #rcm #medicalcoding #usHealthcare #healthcarecareers #arcaller #medicalbiller",
+  "status": "pending"
+ },
+ "2026-11-24": {
+  "topic": "Single \"~15% of claims denied\"",
+  "files": [
+   "posts/1124.jpg"
+  ],
+  "caption": "Nearly 15% of claims sent to private payers are initially denied. More than half of those are paid in the end, but only after appeals that cost time and money. (Premier Inc. survey, 2024)\n\nThe cheapest denial is the one that never happens: clean data at registration, verified eligibility, accurate codes.\n\n#claimdenials #denialmanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-11-25": {
+  "topic": "Carousel \"5 denial codes every AR caller should know\" (7 slides)",
+  "files": [
+   "posts/1125_s1.jpg",
+   "posts/1125_s2.jpg",
+   "posts/1125_s3.jpg",
+   "posts/1125_s4.jpg",
+   "posts/1125_s5.jpg",
+   "posts/1125_s6.jpg",
+   "posts/1125_s7.jpg"
+  ],
+  "caption": "If you work AR, you'll see these again and again.\n\nCO-16, CO-97, CO-29, CO-50 and PR-1: what each means and the next move for each.\n\nSave this for your next shift. Which code eats most of your day?\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm #medicalcoding #healthcarejobs",
+  "status": "pending"
+ },
+ "2026-11-26": {
+  "topic": "Single \"Coder vs. biller vs. AR caller\"",
+  "files": [
+   "posts/1126.jpg"
+  ],
+  "caption": "Three roles people mix up all the time.\n\nCoders translate the visit into codes. Billers turn codes into clean claims. AR callers make sure those claims actually get paid.\n\nThinking about a career in US healthcare revenue? Start by knowing which role fits you.\n\n#medicalcoding #medicalbilling #arcaller #healthcarecareers #rcmcareers #revenuecyclemanagement",
+  "status": "pending"
+ },
+ "2026-11-27": {
+  "topic": "Carousel \"Why a new doctor can't bill for months\" (6 slides)",
+  "files": [
+   "posts/1127_s1.jpg",
+   "posts/1127_s2.jpg",
+   "posts/1127_s3.jpg",
+   "posts/1127_s4.jpg",
+   "posts/1127_s5.jpg",
+   "posts/1127_s6.jpg"
+  ],
+  "caption": "A new provider joins, the schedule fills up, and the claims start denying. The reason is usually credentialing.\n\nWhat it is, why it takes 90+ days, and the playbook to avoid lost revenue.\n\nShare this with someone onboarding a new provider.\n\n#credentialing #providerenrollment #caqh #medicalbilling #revenuecycle #practicemanagement",
+  "status": "pending"
+ },
+ "2026-11-28": {
+  "topic": "Single \"Check eligibility before the visit\"",
+  "files": [
+   "posts/1128.jpg"
+  ],
+  "caption": "Coverage changes more often than patients remember. Plans renew, jobs change, deductibles reset.\n\nA two-minute eligibility check at scheduling saves weeks of rework after a denial.\n\n#frontdesk #eligibilityverification #medicalbilling #practicemanagement #rcm",
+  "status": "pending"
+ },
+ "2026-11-29": {
+  "topic": "Single \"About RCMAXIS\"",
+  "files": [
+   "posts/1129.jpg"
+  ],
+  "caption": "RCMAXIS is building a global revenue cycle team for US specialty practices: AR, coding, billing and credentialing.\n\nFounder-led, working with US clients, remote-friendly.\n\nWe're sharing what we know as we build. Follow along, and opportunities will be posted here first.\n\n#rcmaxis #revenuecyclemanagement #medicalbilling #healthcarecareers #remotejobs #rcmjobs",
+  "status": "pending"
+ },
+ "2026-11-30": {
+  "topic": "Primary or secondary? Who pays first",
+  "files": [
+   "posts/1130_s1.jpg",
+   "posts/1130_s2.jpg",
+   "posts/1130_s3.jpg",
+   "posts/1130_s4.jpg",
+   "posts/1130_s5.jpg"
+  ],
+  "caption": "Two insurance plans don't mean double payment. They mean billing in the right order.\n\nHow does your team confirm which plan is primary?\n\n#coordinationofbenefits #medicalbilling #eligibilityverification #rcm #practicemanagement",
+  "status": "pending"
+ },
+ "2026-12-01": {
+  "topic": "Clean claim rate",
+  "files": [
+   "posts/1201.jpg"
+  ],
+  "caption": "Clean claim rate is one of the simplest numbers to track and one of the most revealing. If claims bounce back, your team pays for it twice.\n\nDo you know your practice's rate?\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-12-02": {
+  "topic": "How to read an EOB in 60 seconds",
+  "files": [
+   "posts/1202_s1.jpg",
+   "posts/1202_s2.jpg",
+   "posts/1202_s3.jpg",
+   "posts/1202_s4.jpg",
+   "posts/1202_s5.jpg",
+   "posts/1202_s6.jpg"
+  ],
+  "caption": "An EOB looks busy, but five fields tell you most of the story. Learn to read them fast and underpayments stop hiding.\n\nSave this for posting day.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-12-03": {
+  "topic": "A day in the life of an AR caller",
+  "files": [
+   "posts/1203.jpg"
+  ],
+  "caption": "AR calling is part detective work, part persistence. A good AR caller turns a stuck claim into cash.\n\nWhat's the longest you've waited on hold with a payer?\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
+  "status": "pending"
+ },
+ "2026-12-04": {
+  "topic": "Prior authorization: 5 rules that save claims",
+  "files": [
+   "posts/1204_s1.jpg",
+   "posts/1204_s2.jpg",
+   "posts/1204_s3.jpg",
+   "posts/1204_s4.jpg",
+   "posts/1204_s5.jpg"
+  ],
+  "caption": "Most prior auth denials are avoidable. Five rules your front desk and billing team can use today.\n\nShare this with the team that handles auths.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-12-05": {
+  "topic": "Document why, not just what.",
+  "files": [
+   "posts/1205.jpg"
+  ],
+  "caption": "A procedure is paid when the note shows why it was needed. Write for the reviewer who reads it six months later.\n\n#medicalcoding #medicalbilling #rcm #revenuecyclemanagement #healthcarecareers",
+  "status": "pending"
+ },
+ "2026-12-06": {
+  "topic": "What makes a great RCM professional?",
+  "files": [
+   "posts/1206.jpg"
+  ],
+  "caption": "Skills can be taught. These traits are what make people great at revenue cycle work.\n\nWhich one describes you best?\n\n#rcmaxis #rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
+  "status": "pending"
+ },
+ "2026-12-07": {
+  "topic": "Rejection vs. denial",
+  "files": [
+   "posts/1207_s1.jpg",
+   "posts/1207_s2.jpg",
+   "posts/1207_s3.jpg",
+   "posts/1207_s4.jpg"
+  ],
+  "caption": "A rejection and a denial need different fixes. Mix them up and claims sit until they time out.\n\nSave this for your next AR shift.\n\n#arcaller #accountsreceivable #claimrejection #denialmanagement #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-12-08": {
+  "topic": "Original Medicare vs. Medicare Advantage",
+  "files": [
+   "posts/1208.jpg"
+  ],
+  "caption": "Same patient, same age, different payer. Medicare Advantage claims go to the private plan, not to Medicare.\n\n#medicare #medicareadvantage #medicalbilling #eligibilityverification #rcm",
+  "status": "pending"
+ },
+ "2026-12-09": {
+  "topic": "5 modifiers every coder should know",
+  "files": [
+   "posts/1209_s1.jpg",
+   "posts/1209_s2.jpg",
+   "posts/1209_s3.jpg",
+   "posts/1209_s4.jpg",
+   "posts/1209_s5.jpg",
+   "posts/1209_s6.jpg",
+   "posts/1209_s7.jpg"
+  ],
+  "caption": "Five modifiers that change how a claim is paid. Use them right and you prevent denials. Use them wrong and you invite audits.\n\nSave this for your next coding review.\n\n#medicalcoding #medicalbilling #rcm #revenuecyclemanagement #healthcarecareers",
+  "status": "pending"
+ },
+ "2026-12-10": {
+  "topic": "CPC or CCS?",
+  "files": [
+   "posts/1210.jpg"
+  ],
+  "caption": "Thinking about a coding certification? CPC and CCS lead to different settings. Choose the one that fits where you want to work.\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
+  "status": "pending"
+ },
+ "2026-12-11": {
+  "topic": "Appeals that win",
+  "files": [
+   "posts/1211_s1.jpg",
+   "posts/1211_s2.jpg",
+   "posts/1211_s3.jpg",
+   "posts/1211_s4.jpg",
+   "posts/1211_s5.jpg",
+   "posts/1211_s6.jpg"
+  ],
+  "caption": "Many denials can be overturned with a clear, well-supported appeal. Here's a structure that keeps appeals tight and complete.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-12-12": {
+  "topic": "Read the remark code, not just the denial code.",
+  "files": [
+   "posts/1212.jpg"
+  ],
+  "caption": "The denial code tells you what happened. The remark code usually tells you how to fix it. Read both before you act.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-12-13": {
+  "topic": "Specialty RCM is different.",
+  "files": [
+   "posts/1213.jpg"
+  ],
+  "caption": "Specialty practices have specialty billing rules. That's where RCMAXIS focuses.\n\n#rcmaxis #specialtybilling #behavioralhealthbilling #ababilling #medicalbilling",
+  "status": "pending"
+ },
+ "2026-12-14": {
+  "topic": "Credentialing vs. enrollment vs. contracting",
+  "files": [
+   "posts/1214_s1.jpg",
+   "posts/1214_s2.jpg",
+   "posts/1214_s3.jpg",
+   "posts/1214_s4.jpg",
+   "posts/1214_s5.jpg"
+  ],
+  "caption": "Credentialing, enrollment and contracting are three different steps. Skip one and claims deny.\n\n#credentialing #providerenrollment #caqh #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-12-15": {
+  "topic": "Days in AR",
+  "files": [
+   "posts/1215.jpg"
+  ],
+  "caption": "Days in AR shows how quickly your practice turns care into cash. Watch the trend, not just the number.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-12-16": {
+  "topic": "5 ways to collect more at the front desk",
+  "files": [
+   "posts/1216_s1.jpg",
+   "posts/1216_s2.jpg",
+   "posts/1216_s3.jpg",
+   "posts/1216_s4.jpg",
+   "posts/1216_s5.jpg",
+   "posts/1216_s6.jpg"
+  ],
+  "caption": "Patient balances are easiest to collect before the patient leaves. Five habits that help.\n\nShare this with your front desk.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-12-17": {
+  "topic": "Your path into US RCM",
+  "files": [
+   "posts/1217.jpg"
+  ],
+  "caption": "Nobody starts as an RCM expert. Here's a simple path from your first role to a specialty.\n\nWhere are you on this path?\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
+  "status": "pending"
+ },
+ "2026-12-18": {
+  "topic": "January checklist for US practices",
+  "files": [
+   "posts/1218_s1.jpg",
+   "posts/1218_s2.jpg",
+   "posts/1218_s3.jpg",
+   "posts/1218_s4.jpg",
+   "posts/1218_s5.jpg",
+   "posts/1218_s6.jpg"
+  ],
+  "caption": "January brings new deductibles, new codes and new rates. Use this checklist to get ready in December.\n\nSave it for the last week of the year.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-12-19": {
+  "topic": "Check the payer portal before you call.",
+  "files": [
+   "posts/1219.jpg"
+  ],
+  "caption": "Payer portals answer many questions faster than a phone call. Check first, then call with a specific ask.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-12-20": {
+  "topic": "Want to build a career in US RCM?",
+  "files": [
+   "posts/1220.jpg"
+  ],
+  "caption": "Interested in a career in US revenue cycle management? Follow along. We share what we know as we build, and opportunities will be posted here first.\n\n#rcmaxis #rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
+  "status": "pending"
+ },
+ "2026-12-21": {
+  "topic": "Eligibility denials: 4 causes and fixes",
+  "files": [
+   "posts/1221_s1.jpg",
+   "posts/1221_s2.jpg",
+   "posts/1221_s3.jpg",
+   "posts/1221_s4.jpg",
+   "posts/1221_s5.jpg"
+  ],
+  "caption": "Eligibility denials are among the most preventable. Four causes and how to stop each one at the front desk.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-12-22": {
+  "topic": "Holiday weeks slow everything down.",
+  "files": [
+   "posts/1222.jpg"
+  ],
+  "caption": "Holiday weeks are slow for payers too. Get clean claims out early and plan for delays into January.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-12-23": {
+  "topic": "New patient or established?",
+  "files": [
+   "posts/1223_s1.jpg",
+   "posts/1223_s2.jpg",
+   "posts/1223_s3.jpg",
+   "posts/1223_s4.jpg",
+   "posts/1223_s5.jpg"
+  ],
+  "caption": "New or established patient? The 3-year rule decides, and payers check it closely.\n\nSave this for your next E/M review.\n\n#medicalcoding #medicalbilling #rcm #revenuecyclemanagement #healthcarecareers",
+  "status": "pending"
+ },
+ "2026-12-24": {
+  "topic": "Soft skills that make great AR callers",
+  "files": [
+   "posts/1224.jpg"
+  ],
+  "caption": "Technical knowledge gets you into AR. These habits make you great at it.\n\nWhich one are you working on?\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
+  "status": "pending"
+ },
+ "2026-12-25": {
+  "topic": "Merry Christmas from RCMAXIS.",
+  "files": [
+   "posts/1225.jpg"
+  ],
+  "caption": "Merry Christmas from all of us at RCMAXIS.\n\n#merrychristmas #rcmaxis #healthcare #medicalbilling",
+  "status": "pending"
+ },
+ "2026-12-26": {
+  "topic": "Close the year clean.",
+  "files": [
+   "posts/1226.jpg"
+  ],
+  "caption": "The last week of the year is a good time to clean up old AR before it gets older.\n\n#arcaller #accountsreceivable #denialmanagement #medicalbilling #rcm",
+  "status": "pending"
+ },
+ "2026-12-27": {
+  "topic": "2026: the year RCMAXIS began.",
+  "files": [
+   "posts/1227.jpg"
+  ],
+  "caption": "2026 is the year RCMAXIS began. Thank you for being here as we build.\n\n#rcmaxis #rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
+  "status": "pending"
+ },
+ "2026-12-28": {
+  "topic": "5 RCM terms every beginner should know",
+  "files": [
+   "posts/1228_s1.jpg",
+   "posts/1228_s2.jpg",
+   "posts/1228_s3.jpg",
+   "posts/1228_s4.jpg",
+   "posts/1228_s5.jpg",
+   "posts/1228_s6.jpg",
+   "posts/1228_s7.jpg"
+  ],
+  "caption": "Every field has its own language. Five RCM terms to learn first.\n\nWhich term confused you most when you started?\n\n#rcmcareers #healthcarecareers #medicalbilling #medicalcoding #remotejobs",
+  "status": "pending"
+ },
+ "2026-12-29": {
+  "topic": "Deductible vs. copay vs. coinsurance",
+  "files": [
+   "posts/1229.jpg"
+  ],
+  "caption": "Three patient cost terms that get mixed up all the time. Know the difference before you bill the patient.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-12-30": {
+  "topic": "5 revenue cycle goals for 2027",
+  "files": [
+   "posts/1230_s1.jpg",
+   "posts/1230_s2.jpg",
+   "posts/1230_s3.jpg",
+   "posts/1230_s4.jpg",
+   "posts/1230_s5.jpg"
+  ],
+  "caption": "Five revenue cycle goals for 2027. Pick one and start in January.\n\nSave this for your planning.\n\n#practicemanagement #medicalbilling #revenuecycle #rcm #healthcarefinance",
+  "status": "pending"
+ },
+ "2026-12-31": {
+  "topic": "See you in 2027.",
+  "files": [
+   "posts/1231.jpg"
+  ],
+  "caption": "Happy New Year from RCMAXIS. See you in 2027.\n\n#happynewyear #rcmaxis #medicalbilling #rcm #healthcarecareers",
+  "status": "pending"
+ },
+ "2026-11-24-reel": {
+  "topic": "Reel: How a US doctor actually gets paid",
+  "video": "reels/1123_reel.mp4",
+  "status": "pending",
+  "caption": "From registration to the patient statement: the 9 steps every claim goes through.\n\nWhich step do you work in?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #revenuecyclemanagement #rcm #arcaller #healthcarecareers"
+ },
+ "2026-11-26-reel": {
+  "topic": "Reel: 5 denial codes every AR caller must know",
+  "video": "reels/1125_reel.mp4",
+  "status": "pending",
+  "caption": "CO-16, CO-97, CO-29, CO-50 and PR-1, with the next move for each.\n\nSave this for your next AR shift.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#arcaller #denialmanagement #accountsreceivable #medicalbilling #rcm #medicalcoding"
+ },
+ "2026-11-28-reel": {
+  "topic": "Reel: Why new doctors can't bill for months",
+  "video": "reels/1127_reel.mp4",
+  "status": "pending",
+  "caption": "Credentialing, explained: why a new provider often waits 90 days or more before the first claim pays, and how to avoid it.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#credentialing #providerenrollment #caqh #medicalbilling #rcm #practicemanagement"
+ },
+ "2026-11-26-tg": {
+  "topic": "Single \"Happy Thanksgiving: thank you to the people who get practices paid\"",
+  "files": [
+   "posts/1126_tg.jpg"
+  ],
+  "caption": "Happy Thanksgiving to everyone who keeps US healthcare revenue moving.\n\nFront desk teams, coders, billers, AR callers and credentialing specialists: the claims that get paid start with your work, and most of it happens where patients never see it.\n\nWe're grateful to build RCMAXIS alongside people who do this every day.\n\n#thanksgiving #medicalbilling #rcm #medicalcoding #arcaller",
+  "status": "pending"
+ },
+ "2026-11-30-reel": {
+  "topic": "Reel: 4 checks before you hit submit",
+  "video": "reels/1130_reel.mp4",
+  "status": "skip",
+  "caption": "4 checks before every claim goes out: eligibility, demographics, codes, auth and modifiers.\n\nWhich one catches the most errors at your desk?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-02-reel": {
+  "topic": "Reel: Read this EOB line in 10 seconds",
+  "video": "reels/1202_reel.mp4",
+  "status": "skip",
+  "caption": "Billed, allowed, paid, patient responsibility. One EOB line, decoded.\n\nSave this for the next EOB you post.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-04-reel": {
+  "topic": "Reel: Does this need prior auth?",
+  "video": "reels/1204_reel.mp4",
+  "status": "skip",
+  "caption": "Pause and answer before the reveal. How many did you get right?\n\nAuth rules vary by payer and plan, so always check the payer's list.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-06-reel": {
+  "topic": "Reel: Rejection or denial? Not the same thing",
+  "video": "reels/1206_reel.mp4",
+  "status": "skip",
+  "caption": "A rejected claim was never processed. A denied claim was processed and not paid. Different problem, different fix.\n\nWhich one do you see more?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-08-reel": {
+  "topic": "Reel: Medicare vs Medicare Advantage in 20 seconds",
+  "video": "reels/1208_reel.mp4",
+  "status": "skip",
+  "caption": "Same patient age, very different billing rules. Know which one you're billing before the claim goes out.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-10-reel": {
+  "topic": "Reel: 5 modifiers every coder should know",
+  "video": "reels/1210_reel.mp4",
+  "status": "skip",
+  "caption": "25, 59, 26, 50 and 76. Save this for your next coding shift.\n\nWhich modifier gets denied most at your work?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-12-reel": {
+  "topic": "Reel: POV: your first week as an AR caller",
+  "video": "reels/1212_reel.mp4",
+  "status": "skip",
+  "caption": "Every AR caller remembers their first recovered claim.\n\nWhat was your first week like?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-14-reel": {
+  "topic": "Reel: Your RCM career path",
+  "video": "reels/1214_reel.mp4",
+  "status": "skip",
+  "caption": "Every step builds on the one before it.\n\nWhere are you on this path right now?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-16-reel": {
+  "topic": "Reel: 3 claim errors that cost US clinics money every week",
+  "video": "reels/1216_reel.mp4",
+  "status": "skip",
+  "caption": "Three errors, all preventable at the front end.\n\nWhich one does your team fight most?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-18-reel": {
+  "topic": "Reel: Guess the denial code",
+  "video": "reels/1218_reel.mp4",
+  "status": "skip",
+  "caption": "How many did you get before the reveal? Drop your score below.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-20-reel": {
+  "topic": "Reel: Your payer call checklist",
+  "video": "reels/1220_reel.mp4",
+  "status": "skip",
+  "caption": "No reference number, no proof the call happened.\n\nSave this for your next payer call.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-22-reel": {
+  "topic": "Reel: We're building a remote US RCM team",
+  "video": "reels/1222_reel.mp4",
+  "status": "skip",
+  "caption": "We're growing, and openings will go on this page first.\n\nWhich role should we hire for first?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-24-reel": {
+  "topic": "Reel: Christmas Eve in US medical billing",
+  "video": "reels/1224_reel.mp4",
+  "status": "skip",
+  "caption": "Happy holidays from RCMAXIS to every AR caller, coder and biller working this week.\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-26-reel": {
+  "topic": "Reel: Year-end AR: 4 things before Dec 31",
+  "video": "reels/1226_reel.mp4",
+  "status": "skip",
+  "caption": "The last week of the year is the time to clear what's left.\n\nWhat's on your year-end list?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-28-reel": {
+  "topic": "Reel: Jan 1 resets: get ready",
+  "video": "reels/1228_reel.mp4",
+  "status": "skip",
+  "caption": "January is when eligibility checks matter most.\n\nIs your team ready?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ },
+ "2026-12-30-reel": {
+  "topic": "Reel: 5 things you learned with @rcm.axis",
+  "video": "reels/1230_reel.mp4",
+  "status": "skip",
+  "caption": "Thanks for learning with us this month. More in January.\n\nWhat should we cover next?\n\nFollow @rcm.axis for one RCM tip a day.\n\n#medicalbilling #medicalcoding #rcm #arcaller #revenuecyclemanagement #healthcarecareers"
+ }
 }
